@@ -1,0 +1,12 @@
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\bin\Debug\net6.0\Stella.Data.deps.json
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\bin\Debug\net6.0\Stella.Data.dll
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\bin\Debug\net6.0\Stella.Data.pdb
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\Stella.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\Stella.Data.AssemblyInfoInputs.cache
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\Stella.Data.AssemblyInfo.cs
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\Stella.Data.csproj.CoreCompileInputs.cache
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\Stella.Data.sourcelink.json
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\Stella.Data.dll
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\refint\Stella.Data.dll
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\Stella.Data.pdb
+C:\Users\emira\Documents\GitHub\Stella.Web\Stella.Data\obj\Debug\net6.0\ref\Stella.Data.dll
